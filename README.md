@@ -1,5 +1,9 @@
 # FoodPanda - AI-Powered Recipe Generator
 
+You can try the live version of FoodPanda here:  
+**[FoodPanda](https://foodpanda-7ozw.onrender.com)**
+
+
 FoodPanda is an AI-powered recipe generator that helps you cook delicious meals with the ingredients you already have at home. Just input your available ingredients, and using the Gemini AI API, FoodPanda will instantly generate a recipe with the right measurements and step-by-step cooking instructions.
 
 ![Screenshot 2024-10-24 105320](https://github.com/user-attachments/assets/3d31025b-b1bf-4223-bfee-237639846ff7)
